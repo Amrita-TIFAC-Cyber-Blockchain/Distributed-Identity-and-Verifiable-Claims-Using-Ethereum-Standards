@@ -4,34 +4,31 @@
 
 Identity Management is an inevitable part of the proper delivery of schemes and services to individuals by the Government and Private Organizations. Identity Management encompasses the creation and maintenance of identity. It ensures that the right entity gains access to the right resources at the right time for verification. It also involves providing high security, privacy, productivity, and enhanced user experience. Rising incidents of data infringements and identity thefts in a centralized identity system are a growing concern. Blockchain-based identity solutions gained a competitive edge over the present centralized identity system due to the features of Self-Sovereign Identity (SSI) and Verifiable Claims (VC). In this paper, we investigate various blockchain-based identity solutions that are self-sovereign and can create VC. We have also analyzed and proposed to create a user-centric identity and claims using ERC-725 and ERC-780 Ethereum standards powered by IPFS for distributed data storage.
 
-
 ## Proposed Architecture
 
 <b>Creation of user-centric identity using ERC-725</b>
 
 <p align="center">
-<img src="Assets/System_Architecture_DID.png" alt="System Architecture" width="350" height="400">
+<img src="Assets/System_Architecture_DID.png" alt="System Architecture" width="450" height="300">
 </p>
-
 
 <b>Creation of Verifiable Claim using ERC-780</b>
 
 <p align="center">
-<img src="Assets/System_Architecture_VC.png" alt="System Architecture" width="350" height="400">
+<img src="Assets/System_Architecture_VC.png" alt="System Architecture" width="450" height="300">
 </p>
-
 
 ## Usecases
 
 <b> Insurance Use-case using our proposed framework </b>
 
 <p align="center">
-<img src="Assets/Insurance_usecase.png" alt="System Architecture" width="350" height="400">
+<img src="Assets/Insurance_usecase.png" alt="System Architecture" width="400" height="300">
 </p>
 
 
 ## Demo
-[Click here](https://amrita-tifac-cyber-blockchain.github.io/Distributed-Identity-and-Verifiable-Claims-Using-Ethereum-Standards/UI/html/index.html) to access the webpage.
+[Click here](https://amrita-tifac-cyber-blockchain.github.io/Distributed-Identity-and-Verifiable-Claims-Using-Ethereum-Standards/UI/public/index.html) to access the webpage.
 
 ## Acknowledgement
 We would like to acknowldge the support provided by TIFAC-CORE in Cyber Security, Amrita School of Engineering, Amrita Vishwa Vidyapeetham, Coimbatore, India in carrying out this work as part of "18CY712 - Blockchain Technology" Course. 
@@ -48,8 +45,5 @@ We would like to acknowldge the support provided by TIFAC-CORE in Cyber Security
    Tjoa A.M., Khalil I. (eds) Trust, Privacy and Security in Digital Business. TrustBus 2020. Lecture Notes in Computer Science, vol 12395. Springer, Cham.    https://doi.org/10.1007/978-3-030-58986-8_1
  - “IPFS Documentation.” IPFS Docs, 31 Aug. 2020, https://docs.ipfs.io
 
-
-
- 
 ## Publication
 [In Progress] Aju Mathew Thomas, Ramaguru R., Sethumadhavan M. (2021) Distributed Identity and Verifiable Claims Using Ethereum Standards.
