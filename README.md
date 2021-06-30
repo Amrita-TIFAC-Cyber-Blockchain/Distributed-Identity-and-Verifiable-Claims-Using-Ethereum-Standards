@@ -1,4 +1,4 @@
-# Distributed Identity and Claims using ERC-725 and ERC-780 : A Compendium of Uses and Features
+# Distributed Identity and Verifiable Claims Using Ethereum Standards
 
 ## Abstract 
 
@@ -13,9 +13,11 @@
 /UI/html/index.html) to access the webpage.
 
 ## Acknowledgement
-We would like to acknowldge the support provided by TIFAC-CORE in Cyber Security, Amrita School of Engineering, Amrita Vishwa Vidyapeetham, Coimbatore in carrying out this work as part of "Blockchain Technology" Course. 
+We would like to acknowldge the support provided by TIFAC-CORE in Cyber Security, Amrita School of Engineering, Amrita Vishwa Vidyapeetham, Coimbatore, India in carrying out this work as part of "18CY712 - Blockchain Technology" Course. 
 
 ## References
  - Ramaguru R, Minu M. Blockchain Terminologies. NamChain Open Initiative Research Lab (2021). https://github.com/NamChain-Open-Initiative-Research-Lab/Blockchain-Terminologies
 
  
+## Publication
+[In Progress] Aju Mathew Thomas, Ramaguru R., Sethumadhavan M. (2021) Distributed Identity and Verifiable Claims Using Ethereum Standards.
