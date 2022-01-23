@@ -1,4 +1,5 @@
 # Distributed Identity and Verifiable Claims Using Ethereum Standards
+![](https://img.shields.io/badge/BlockchainCourse-18CY712-green) ![](https://img.shields.io/badge/AmritaBlockchain-Completed-brightgreen) ![](https://img.shields.io/badge/Publication-Springer-brightgreen)
 
 ## Abstract
 
@@ -46,4 +47,4 @@ We would like to acknowldge the support provided by TIFAC-CORE in Cyber Security
  - “IPFS Documentation.” IPFS Docs, 31 Aug. 2020, https://docs.ipfs.io
 
 ## Publication
-- Thomas A.M., Ramaguru R., Sethumadhavan M. (2022) Distributed Identity and Verifiable Claims Using Ethereum Standards. In: Ranganathan G., Fernando X., Shi F. (eds) Inventive Communication and Computational Technologies. Lecture Notes in Networks and Systems, vol 311. Springer, Singapore. [https://doi.org/10.1007/978-981-16-5529-6_48](https://doi.org/10.1007/978-981-16-5529-6_48)
+Thomas A.M., Ramaguru R., Sethumadhavan M. (2022) Distributed Identity and Verifiable Claims Using Ethereum Standards. In: Ranganathan G., Fernando X., Shi F. (eds) Inventive Communication and Computational Technologies. Lecture Notes in Networks and Systems, vol 311. Springer, Singapore. [https://doi.org/10.1007/978-981-16-5529-6_48](https://doi.org/10.1007/978-981-16-5529-6_48)
