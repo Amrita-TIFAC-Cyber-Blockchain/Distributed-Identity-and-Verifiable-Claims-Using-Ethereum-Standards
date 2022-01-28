@@ -1,5 +1,6 @@
 # Distributed Identity and Verifiable Claims Using Ethereum Standards
-![](https://img.shields.io/badge/BlockchainCourse-18CY712-green) ![](https://img.shields.io/badge/AmritaBlockchain-Completed-brightgreen) ![](https://img.shields.io/badge/Publication-Springer-brightgreen)
+![](https://img.shields.io/badge/Batch-19CYS-green) ![](https://img.shields.io/badge/BlockchainCourse-18CY712-green) ![](https://img.shields.io/badge/Focus-Governance-yellow) ![](https://img.shields.io/badge/AmritaBlockchain-Completed-brightgreen) ![](https://img.shields.io/badge/Publication-Springer-brightgreen) <br/>
+![](https://img.shields.io/badge/Blockchain-Ethereum-blue) ![](https://img.shields.io/badge/Standards-DID-blue) ![](https://img.shields.io/badge/Ethereum_Standards-ERC725,_ERC780-blue) ![](https://img.shields.io/badge/Storage-IPFS-blue)
 
 ## Abstract
 
@@ -32,7 +33,7 @@ Identity Management is an inevitable part of the proper delivery of schemes and 
 [Click here](https://amrita-tifac-cyber-blockchain.github.io/Distributed-Identity-and-Verifiable-Claims-Using-Ethereum-Standards/UI/public/index.html) to access the webpage.
 
 ## Acknowledgement
-We would like to acknowldge the support provided by TIFAC-CORE in Cyber Security, Amrita School of Engineering, Amrita Vishwa Vidyapeetham, Coimbatore, India in carrying out this work as part of "18CY712 - Blockchain Technology" Course. 
+We would like to acknowldge the support provided by **TIFAC-CORE in Cyber Security**, Amrita School of Engineering, Amrita Vishwa Vidyapeetham, Coimbatore, India in carrying out this work as part of "**18CY712 - Blockchain Technology**" Course. 
 
 ## References
  -  M. Kuperberg, ”Blockchain-Based Identity Management: A Survey From the Enterprise and Ecosystem Perspective,” in IEEE Transactions on Engineering Management, vol. 67, no. 4, pp. 1008-1027, Nov. 2020, doi: 10.1109/TEM.2019.2926471.
