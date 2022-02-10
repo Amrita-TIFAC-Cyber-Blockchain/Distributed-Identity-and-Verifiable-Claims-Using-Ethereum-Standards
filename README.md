@@ -1,4 +1,4 @@
-# Distributed Identity and Verifiable Claims Using Ethereum Standards
+# Distributed Identity and Verifiable Claims Using Ethereum Standards ![](https://img.shields.io/badge/-Completed-darkgreen)
 ![](https://img.shields.io/badge/Batch-19CYS-green) ![](https://img.shields.io/badge/BlockchainCourse-18CY712-green) ![](https://img.shields.io/badge/Focus-Governance-yellow) ![](https://img.shields.io/badge/AmritaBlockchain-Completed-brightgreen) ![](https://img.shields.io/badge/Publication-Springer-brightgreen) <br/>
 ![](https://img.shields.io/badge/Blockchain-Ethereum-blue) ![](https://img.shields.io/badge/Standards-DID-blue) ![](https://img.shields.io/badge/Ethereum_Standards-ERC725,_ERC780-blue) ![](https://img.shields.io/badge/Storage-IPFS-blue)
 
